@@ -1,1 +1,3 @@
 com\laowang\HelloServlet.class
+com\laowang\entity\bo\HeadLine.class
+com\laowang\entity\bo\ShopCategory.class
